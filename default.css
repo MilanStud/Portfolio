@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
+
+  .obal {
+    width: 70%;
+    margin: 0 auto;
+  }
+  header {
+    /* height: 140px; */
+    margin-bottom: 15px;
+    background-color: silver;
+  }
+
+  main {
+    /* width: 980px; */
+    /* height: 450px; */
+    /* background-color: silver; */
+  }
+
+  footer {
+    height: 70px;
+    margin-top: 15px;
+    padding:20px;
+    background-color:burlywood;
+    text-align: center;
+  }
+  section {
+    padding-top: 60px;
+    padding-bottom: 70px;
+    width: 100%;
+    /* text-align: center; */
+    margin:0 auto;
+
+  }
+  .foto-ja {
+    margin-top: 80px;
+  }
+
+  .obsah-gridu {
+    padding: 20px;
+    margin-top: 80px;
+  }
+  .ikony {
+    height: 80px;
+    padding: 10px;
+  }
+  h1 {
+    /* background-color: #afb7c2; */
+    background-color:rgb(249, 236, 218);
+    padding-left: 5px;
+  }
+  h2 {
+    border-bottom: 1px solid silver;
+    padding-bottom: 5px;
+  }
+  .img-reference {
+   width: 70%; /* width: 300px; */
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .menu-prizpusobeni{
+    /* background-color: #8d949e; */
+    background-color:burlywood;
+  }
+  .formular{
+    width: 100%;
+    margin: 0 auto;
+  }
+ 
