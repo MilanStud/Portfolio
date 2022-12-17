@@ -10769,5 +10769,46 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+body {
+  margin: 0;
+}
+
+.obrMuj {
+  background-image: url("img/obr1.png");
+  background-position: bottom;
+}
+
+.img-ja {
+  width: 300px;
+}
+
+@media (max-width: 991.98px) {
+  .img-ja {
+    width: 300px;
+  }
+}
+.ikony {
+  height: 80px;
+  padding: 10px;
+}
+
+h2, .h2 {
+  padding-bottom: 10px;
+  padding-top: 20px;
+  display: block;
+  height: 10%;
+}
+
+.img-hobby {
+  width: 60%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.img-reference {
+  width: 90%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
 
 /*# sourceMappingURL=Styl.css.map */
